@@ -19,7 +19,7 @@
 
 # Usage:
 - First, download the project as a zip archive and extract it to your desired location or just clone the repository. 
-- Download the dataset using the link provided in the dataset_link.txt within the datasets directory. Move the downloaded dataset or whichever dataset you want to use into the datasets directory. In case you are using your dataset, you have to modify the filenames in NLP.py to the one you'll be using. Set the path in spyder to your where your dataset is stored.
+- Download the dataset using the link provided in the [Restaurant_Reviews.tsv](https://github.com/charitha-madala/Natural-language-processing/blob/master/NLP.py) within the datasets directory. Move the downloaded dataset or whichever dataset you want to use into the datasets directory. In case you are using your dataset, you have to modify the filenames in [NLP.py](https://github.com/charitha-madala/Natural-language-processing/blob/master/NLP.py) to the one you'll be using. Set the path in spyder to your where your dataset is stored.
 - You need to execute the python file to run this project. 
 - Read the steps carefully before you do so.  
 - All these will generate a  pickled file as a result of the first execution. After the first execution, you should be able to execute the driver code in the end(uncomment it and run trials).
